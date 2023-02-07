@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/docker/":{"guestpath":"/tmp/docker","hostpath":"/home/jrstec/Devops/lab-docker/docker","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/jrstec/Devops/lab-docker","disabled":false,"__vagrantfile":true}}}
